@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ulviya05/solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Ulviya05/solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ulviya05/solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Ulviya05/solutions/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
