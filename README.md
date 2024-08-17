@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ulviya05/solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Ulviya05/solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ulviya05/solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
