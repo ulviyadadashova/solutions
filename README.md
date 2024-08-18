@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Ulviya05/solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ulviya05/solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
