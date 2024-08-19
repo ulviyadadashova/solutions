@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ulviya05/solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ulviya05/solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ulviya05/solutions/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Ulviya05/solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Ulviya05/solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ulviya05/solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ulviya05/solutions/tree/master/0054-spiral-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Design
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Ulviya05/solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
