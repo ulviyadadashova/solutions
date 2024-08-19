@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ulviya05/solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ulviya05/solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Ulviya05/solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Ulviya05/solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Ulviya05/solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Ulviya05/solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Ulviya05/solutions/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ulviya05/solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Ulviya05/solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph
 |  |
