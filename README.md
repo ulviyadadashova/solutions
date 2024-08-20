@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ulviya05/solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Ulviya05/solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ulviya05/solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Ulviya05/solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ulviya05/solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ulviya05/solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Ulviya05/solutions/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
