@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ulviya05/solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ulviya05/solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ulviya05/solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Ulviya05/solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ulviya05/solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ulviya05/solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Ulviya05/solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ulviya05/solutions/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ulviya05/solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ulviya05/solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/Ulviya05/solutions/tree/master/0572-subtree-of-another-tree) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ulviya05/solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ulviya05/solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ulviya05/solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
@@ -228,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ulviya05/solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ulviya05/solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
