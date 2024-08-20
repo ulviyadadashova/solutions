@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ulviya05/solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ulviya05/solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ulviya05/solutions/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Ulviya05/solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Ulviya05/solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ulviya05/solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ulviya05/solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ulviya05/solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ulviya05/solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Ulviya05/solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ulviya05/solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ulviya05/solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ulviya05/solutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Design
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ulviya05/solutions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
