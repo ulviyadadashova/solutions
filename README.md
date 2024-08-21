@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ulviya05/solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ulviya05/solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Ulviya05/solutions/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ulviya05/solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ulviya05/solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Ulviya05/solutions/tree/master/0242-valid-anagram) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ulviya05/solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ulviya05/solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/Ulviya05/solutions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Ulviya05/solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Ulviya05/solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ulviya05/solutions/tree/master/0300-longest-increasing-subsequence) |
