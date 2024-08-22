@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Ulviya05/solutions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ulviya05/solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ulviya05/solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Ulviya05/solutions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
