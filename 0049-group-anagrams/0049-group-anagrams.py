@@ -8,4 +8,5 @@ class Solution:
             else:
                 dict[sorted_word] = [word]
         return dict.values()
+
         
