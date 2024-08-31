@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ulviya05/solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Ulviya05/solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ulviya05/solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ulviya05/solutions/tree/master/0053-maximum-subarray) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ulviya05/solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ulviya05/solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ulviya05/solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ulviya05/solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ulviya05/solutions/tree/master/0141-linked-list-cycle) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ulviya05/solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ulviya05/solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ulviya05/solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ulviya05/solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ulviya05/solutions/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
