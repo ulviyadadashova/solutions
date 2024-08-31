@@ -10,4 +10,5 @@ class Solution:
             else:
                 window_start = window_end
         return max_profit
+
         
