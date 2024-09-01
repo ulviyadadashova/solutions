@@ -9,4 +9,5 @@ class Solution:
             multiply *= nums[i]
         return ans[:-1]
 
+
         
