@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ulviya05/solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ulviya05/solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ulviya05/solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ulviya05/solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ulviya05/solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ulviya05/solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ulviya05/solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ulviya05/solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ulviya05/solutions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ulviya05/solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
