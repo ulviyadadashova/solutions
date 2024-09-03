@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ulviya05/solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ulviya05/solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ulviya05/solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Ulviya05/solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ulviya05/solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Ulviya05/solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ulviya05/solutions/tree/master/0242-valid-anagram) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ulviya05/solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ulviya05/solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Ulviya05/solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ulviya05/solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ulviya05/solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Ulviya05/solutions/tree/master/0212-word-search-ii) |
