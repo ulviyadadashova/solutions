@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ulviya05/solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Ulviya05/solutions/tree/master/0680-valid-palindrome-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ulviya05/solutions/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Ulviya05/solutions/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 | [0680-valid-palindrome-ii](https://github.com/Ulviya05/solutions/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/Ulviya05/solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
