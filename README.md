@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ulviya05/solutions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
+| [0503-next-greater-element-ii](https://github.com/Ulviya05/solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ulviya05/solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Ulviya05/solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Ulviya05/solutions/tree/master/0907-koko-eating-bananas) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ulviya05/solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/Ulviya05/solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ulviya05/solutions/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Ulviya05/solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ulviya05/solutions/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
