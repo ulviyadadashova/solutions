@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ulviya05/solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ulviya05/solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Ulviya05/solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Ulviya05/solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ulviya05/solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ulviya05/solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ulviya05/solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ulviya05/solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ulviya05/solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ulviya05/solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Ulviya05/solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Ulviya05/solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulviya05/solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Ulviya05/solutions/tree/master/0212-word-search-ii) |
 ## Greedy
