@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ulviya05/solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Ulviya05/solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Ulviya05/solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ulviya05/solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Ulviya05/solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ulviya05/solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ulviya05/solutions/tree/master/0169-majority-element) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ulviya05/solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ulviya05/solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Ulviya05/solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ulviya05/solutions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ulviya05/solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ulviya05/solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Ulviya05/solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ulviya05/solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Ulviya05/solutions/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
