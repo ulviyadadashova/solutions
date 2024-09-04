@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ulviya05/solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Ulviya05/solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Ulviya05/solutions/tree/master/0907-koko-eating-bananas) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ulviya05/solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ulviya05/solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ulviya05/solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ulviya05/solutions/tree/master/0054-spiral-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ulviya05/solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## String Matching
 |  |
 | ------- |
@@ -411,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ulviya05/solutions/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ulviya05/solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
