@@ -8,7 +8,7 @@ class Solution:
     def search(self, i, j, board, marked, word):
         if word == "":
             return True
-        if not(i >= 0 and i < len(board) and j >= 0 and j < len(board[0])):
+        if not (0 <= i < len(board) and 0 <= j < len(board[0])):
             return False
         if not marked[i][j] and board[i][j] == word[0]:
             marked[i][j] = True
@@ -22,4 +22,3 @@ class Solution:
                 return True
             marked[i][j] = False
         return False
-        
