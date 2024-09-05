@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ulviya05/solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Ulviya05/solutions/tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ulviya05/solutions/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1036-rotting-oranges](https://github.com/Ulviya05/solutions/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ulviya05/solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Ulviya05/solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/Ulviya05/solutions/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ulviya05/solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ulviya05/solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulviya05/solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/Ulviya05/solutions/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
