@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ulviya05/solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Ulviya05/solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ulviya05/solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0778-reorganize-string](https://github.com/Ulviya05/solutions/tree/master/0778-reorganize-string) |
 ## Union Find
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ulviya05/solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ulviya05/solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Ulviya05/solutions/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/Ulviya05/solutions/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/Ulviya05/solutions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Ulviya05/solutions/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ulviya05/solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
+| [0778-reorganize-string](https://github.com/Ulviya05/solutions/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ulviya05/solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ulviya05/solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Ulviya05/solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ulviya05/solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Ulviya05/solutions/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ulviya05/solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Ulviya05/solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/Ulviya05/solutions/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/Ulviya05/solutions/tree/master/0778-reorganize-string) |
 ## Simulation
 |  |
 | ------- |
@@ -395,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ulviya05/solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ulviya05/solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Ulviya05/solutions/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
