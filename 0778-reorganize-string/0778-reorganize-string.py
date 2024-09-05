@@ -17,4 +17,3 @@ class Solution:
             if cnt != 0:
                 prev = [cnt, char]
         return res
-        
