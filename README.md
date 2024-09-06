@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ulviya05/solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Ulviya05/solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Ulviya05/solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ulviya05/solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ulviya05/solutions/tree/master/0062-unique-paths) |
