@@ -1,8 +1,8 @@
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
+    def lengthOfLongestSubstring(self, s: str) -> int: 
         window_start = 0
-        char_frequency = {}
         max_length = 0
+        char_frequency = {}
         for window_end in range(len(s)):
             right_char = s[window_end]
             if right_char in char_frequency and window_start <= char_frequency[right_char]:
