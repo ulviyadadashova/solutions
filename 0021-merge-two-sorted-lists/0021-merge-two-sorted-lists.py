@@ -20,4 +20,5 @@ class Solution:
         if list2:
             tail.next = list2
         return dummy.next
+
         
