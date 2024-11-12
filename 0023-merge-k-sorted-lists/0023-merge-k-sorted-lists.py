@@ -9,28 +9,28 @@ class Solution:
             return None
         while len(lists) > 1:
             mergedLists = []
-            for i in range(0,len(lists), 2):
-                l1 = lists[i]
-                l2 = lists[i + 1] if i + 1 < len(lists) else None
-                mergedLists.append(self.mergeLists(l1, l2))
+            for i in range(0, len(lists), 2):
+                list1 = lists[i]
+                list2 = lists[i + 1] if (i + 1) < len(lists) else None
+                mergedLists.append(self.mergeTwoLists(list1, list2))
             lists = mergedLists
         return lists[0]
-    def mergeLists(self, l1, l2):
+
+    def mergeTwoLists(self, list1, list2):
         dummy = ListNode()
         tail = dummy
-        while l1 and l2:
-            if l1.val < l2.val:
-                tail.next = l1
-                l1 = l1.next
+        while list1 and list2:
+            if list1.val < list2.val:
+                tail.next = list1
+                list1 = list1.next
             else:
-                tail.next = l2
-                l2 = l2.next
+                tail.next = list2
+                list2 = list2.next
             tail = tail.next
-        if l1:
-            tail.next = l1
-        if l2:
-            tail.next = l2
-
+        if list1:
+            tail.next = list1
+        if list2:
+            tail.next = list2
         return dummy.next
 
         
