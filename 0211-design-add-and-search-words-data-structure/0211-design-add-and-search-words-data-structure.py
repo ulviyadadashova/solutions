@@ -12,9 +12,8 @@ class WordDictionary:
         for c in word:
             if c not in curr.children:
                 curr.children[c] = WordDictionaryNode()
-            curr = curr.children[c]   
-        curr.end = True
-        
+            curr = curr.children[c]
+        curr.end = True   
 
     def search(self, word: str) -> bool:
         def dfs(j, root):
@@ -32,6 +31,7 @@ class WordDictionary:
                     curr = curr.children[c]
             return curr.end
         return dfs(0, self.root)
+
         
 
 
