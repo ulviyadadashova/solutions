@@ -16,9 +16,9 @@ class Solution:
                 self.search(i + 1, j, board, marked, word[1:]) or
                 self.search(i - 1, j, board, marked, word[1:]) or
                 self.search(i, j + 1, board, marked, word[1:]) or
-                self.search(i, j - 1, board, marked, word[1:])
+                self.search(i, j - 1, board, marked, word[1:]) 
             )
-            if ret:
+            if ret == True:
                 return True
             marked[i][j] = False
         return False
