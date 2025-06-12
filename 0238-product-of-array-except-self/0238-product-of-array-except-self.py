@@ -2,7 +2,7 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         ans = [1]
         for num in nums:
-            ans.append(ans[-1] * num)
+            ans.append(ans[-1] * num) #[1,1,2,6,24]
         multiply = 1
         for i in range(len(nums) - 1, -1, -1):
             ans[i] *= multiply
@@ -10,7 +10,6 @@ class Solution:
         return ans[:-1]
 
 
-        
-
 
         
+      
