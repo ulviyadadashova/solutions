@@ -6,4 +6,6 @@ class Solution:
                 return True
             seen.add(num)
         return False
-
+#  Time - O(n)
+# Space -  O(n)
+# Brute force - two nested loops comparing each number with ever other number in arrar. time - O(n square)
